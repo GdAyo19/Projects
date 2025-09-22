@@ -17,7 +17,7 @@ The repository serves as:
 
 ## 📂 Project Structure
 - Each folder contains a separate project with its own README, code, and resources.  
-- Projects vary in complexity — from beginner-friendly tasks to more advanced analyses.  
+- Projects vary in complexity from beginner-friendly tasks to more advanced analyses.  
 - Topics include:
   - Python practice scripts  
   - Data analysis and visualization  
